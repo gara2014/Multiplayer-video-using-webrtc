@@ -10,6 +10,9 @@
 Android：https://github.com/gara2014/Multiplayer-video-using-webrtc-android<br>
 Signal Server：https://github.com/gara2014/Signal-server
 
+## 开发环境
+XCode 8.2
+
 ## WebRTC官方地址
 https://webrtc.org
 
