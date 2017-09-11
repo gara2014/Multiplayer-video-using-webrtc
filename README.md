@@ -7,8 +7,8 @@
 ## 原理
 
 ## 相关项目地址
-Android：https://github.com/gara2014/Multiplayer-video-using-webrtc-android
-signal Server：https://github.com/gara2014/Signal-server
+Android：https://github.com/gara2014/Multiplayer-video-using-webrtc-android<br>
+Signal Server：https://github.com/gara2014/Signal-server
 
 ## WebRTC官方地址
 https://webrtc.org
